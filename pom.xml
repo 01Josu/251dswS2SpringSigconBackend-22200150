@@ -66,6 +66,8 @@
 	</dependencies>
         
         <build>
+             <!-- Aquí es donde agregas el finalName -->
+            <finalName>251dswS2SpringSigconBackend_22200150-0.0.1-SNAPSHOT</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
